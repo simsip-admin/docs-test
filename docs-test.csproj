@@ -31,5 +31,14 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Gemfile" />
+    <None Include="Gemfile.lock" />
+    <None Include="README.md" />
+    <None Include="_config.yml" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
