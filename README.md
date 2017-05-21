@@ -1,5 +1,5 @@
 # docs-test
 
-The project is called test9.
+The project is called {{ site.github.project_title }}.
 
 
