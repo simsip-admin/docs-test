@@ -1,5 +1,5 @@
 # docs-test
 
-The project is called test6.
+The project is called test7.
 
 
