@@ -1,6 +1,5 @@
 github: [metadata]
 theme: jekyll-theme-leap-day
-repository: 'simsip-admin/docs-test'
 title: Disa
 description: Disa is a unified messenger built on an open source framework - geared towards building new plugins.
 show_downloads: true
