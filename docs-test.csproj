@@ -35,6 +35,30 @@
     <Content Include=".gitignore" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="articles\DisaFramework\DisaBubbleGroups.md" />
+    <None Include="articles\DisaFramework\DisaBubbles.md" />
+    <None Include="articles\DisaFramework\DisaContacts.md" />
+    <None Include="articles\DisaFramework\DisaDeploying.md" />
+    <None Include="articles\DisaFramework\DisaFramework.md" />
+    <None Include="articles\DisaFramework\DisaMessaging.md" />
+    <None Include="articles\DisaFramework\DisaPlatformManager.md" />
+    <None Include="articles\DisaFramework\DisaService.md" />
+    <None Include="articles\DisaFramework\DisaServiceManager.md" />
+    <None Include="articles\DisaFramework\DisaSettings.md" />
+    <None Include="articles\DisaFramework\DisaUnifiedService.md" />
+    <None Include="articles\DisaFramework\DisaUserInformation.md" />
+    <None Include="articles\DisaFramework\toc.md" />
+    <None Include="articles\FirstPlugin\BasicPlugin.md" />
+    <None Include="articles\FirstPlugin\FirstPlugin.md" />
+    <None Include="articles\FirstPlugin\toc.md" />
+    <None Include="articles\intro.md" />
+    <None Include="articles\TelegramPlugin\TelegramContacts.md" />
+    <None Include="articles\TelegramPlugin\TelegramMessaging.md" />
+    <None Include="articles\TelegramPlugin\TelegramPlugin.md" />
+    <None Include="articles\TelegramPlugin\TelegramService.md" />
+    <None Include="articles\TelegramPlugin\TelegramSettings.md" />
+    <None Include="articles\TelegramPlugin\toc.md" />
+    <None Include="articles\toc.md" />
     <None Include="Gemfile" />
     <None Include="Gemfile.lock" />
     <None Include="README.md" />
