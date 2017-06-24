@@ -33,6 +33,35 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
+    <Content Include="images\cover.png" />
+    <Content Include="images\cover2.png" />
+    <Content Include="images\disa-logo-nav.png" />
+    <Content Include="images\DisaFramework\Disa.Framework.png" />
+    <Content Include="images\DisaFramework\Disa.Framework2.png" />
+    <Content Include="images\favicon.ico" />
+    <Content Include="images\FirstPlugin\DisaTerminal.png" />
+    <Content Include="images\FirstPlugin\SettingUpYourIDE.png" />
+    <Content Include="images\FirstPlugin\ThreeProjectsInSolution.png" />
+    <Content Include="images\FirstPlugin\ThreeProjectsInSolutionReferences.png" />
+    <Content Include="images\home\disa-framework-developing-azure.svg" />
+    <Content Include="images\home\disa-framework-developing-c-sharp.svg" />
+    <Content Include="images\home\disa-framework-developing-publish.svg" />
+    <Content Include="images\home\disa-framework-developing-reference.svg" />
+    <Content Include="images\home\disa-framework-developing-rest.svg" />
+    <Content Include="images\home\disa-framework-intelligence-knowledge.svg" />
+    <Content Include="images\home\disa-framework-intelligence-language-understanding.svg" />
+    <Content Include="images\home\disa-framework-intelligence-location.svg" />
+    <Content Include="images\home\disa-framework-intelligence-search.svg" />
+    <Content Include="images\home\disa-framework-intelligence-smarter.svg" />
+    <Content Include="images\home\disa-framework-intelligence-speech.svg" />
+    <Content Include="images\home\disa-framework-overview-concepts.svg" />
+    <Content Include="images\home\disa-framework-overview-emulator.svg" />
+    <Content Include="images\home\disa-framework-overview-get-started.svg" />
+    <Content Include="images\home\disa-framework-overview-introduction.svg" />
+    <Content Include="images\home\disa-framework-overview-plan.svg" />
+    <Content Include="images\home\disa-framework-overview-troubleshooting.svg" />
+    <Content Include="images\home\disa-framework-resources-sdk-tools.svg" />
+    <Content Include="images\logo-white-new.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="articles\DisaFramework\DisaBubbleGroups.md" />
